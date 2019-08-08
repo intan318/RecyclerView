@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">RecyclerViewLatihan</string>
+    <string-array name="hero_name">
+        <item>Soekarno</item>
+        <item>Mohammad Hatta</item>
+        <item>Sutomo</item>
+        <item>Pattimura</item>
+        <item>Soedirman</item>
+        <item>Diponegoro</item>
+        <item>Teuku Umar</item>
+        <item>Ki Hadjar Dewantara</item>
+        <item>Cut Nyak Dhien</item>
+        <item>Cut Nyak Meutia</item>
+    </string-array>
+
+    <array name="hero_image">
+        <item>@drawable/sukar</item>
+        <item>@drawable/hatta</item>
+        <item>@drawable/sutomo</item>
+        <item>@drawable/patimura</item>
+        <item>@drawable/sudirman</item>
+        <item>@drawable/diponegoro</item>
+        <item>@drawable/umar</item>
+        <item>@drawable/dewantara</item>
+        <item>@drawable/dhien</item>
+        <item>@drawable/mutia</item>
+    </array>
+
+    <array name="hero_description">
+        <item>Dr. Ir. H. Soekarno adalah Presiden pertama Republik Indonesia yang menjabat pada
+            periode 1945–1967. Ia
+            memainkan peranan penting dalam memerdekakan bangsa Indonesia dari penjajahan Belanda.
+            Ia adalah Proklamator
+            Kemerdekaan Indonesia yang terjadi pada tanggal 17 Agustus 1945.
+        </item>
+        <item>Dr. Drs. H. Mohammad Hatta adalah tokoh pejuang, negarawan, ekonom, dan juga Wakil
+            Presiden Indonesia yang
+            pertama. Ia bersama Soekarno memainkan peranan penting untuk memerdekakan bangsa
+            Indonesia dari penjajahan
+            Belanda sekaligus memproklamirkannya pada 17 Agustus 1945
+        </item>
+        <item>Sutomo lebih dikenal dengan sapaan akrab oleh rakyat sebagai Bung Tomo, adalah
+            pahlawan yang terkenal
+            karena peranannya dalam membangkitkan semangat rakyat untuk melawan kembalinya penjajah
+            Belanda
+        </item>
+        <item>Pattimura lahir di Haria, pulau Saparua, Maluku, 8 Juni 1783 – meninggal di Ambon,
+            Maluku, 16 Desember
+            1817 pada umur 34 tahun, juga dikenal dengan nama Kapitan Pattimura adalah Pahlawan
+            nasional Indonesia dari
+            Maluku.
+        </item>
+        <item>Jenderal Besar Raden Soedirman adalah seorang perwira tinggi Indonesia pada masa
+            Revolusi Nasional
+            Indonesia. Sebagai panglima besar Tentara Nasional Indonesia pertama, ia adalah sosok
+            yang dihormati di
+            Indonesia.
+        </item>
+        <item>Bendara Pangeran Harya Dipanegara adalah salah seorang pahlawan nasional Republik
+            Indonesia. Pangeran
+            Diponegoro terkenal karena memimpin Perang Diponegoro/Perang Jawa melawan pemerintah
+            Hindia Belanda. Perang
+            tersebut tercatat sebagai perang dengan korban paling besar dalam sejarah Indonesia.
+        </item>
+        <item>Teuku Umar adalah pahlawan asal Aceh yang berjuang dengan cara berpura-pura
+            bekerjasama dengan Belanda dan
+            terkenal akan strategi perang gerilyanya. Ia melawan Belanda ketika telah mengumpulkan
+            senjata dan uang yang
+            cukup banyak
+        </item>
+        <item>Raden Mas Soewardi Soerjaningrat adalah aktivis pergerakan kemerdekaan Indonesia,
+            kolumnis, politisi, dan
+            pelopor pendidikan bagi kaum pribumi Indonesia dari zaman penjajahan Belanda.
+        </item>
+        <item>Cut Nyak Dhien adalah seorang Pahlawan Nasional Indonesia dari Aceh yang berjuang
+            melawan Belanda pada
+            masa Perang Aceh. Setelah wilayah VI Mukim diserang, ia mengungsi, sementara suaminya
+            Ibrahim Lamnga
+            bertempur melawan Belanda.
+        </item>
+        <item>Tjoet Nyak Meutia adalah pahlawan nasional Indonesia dari daerah Aceh. Ia dimakamkan
+            di Alue Kurieng,
+            Aceh. Ia menjadi pahlawan nasional Indonesia berdasarkan Surat Keputusan Presiden Nomor
+            107/1964 pada tahun
+            1964
+        </item>
+    </array>
+</resources>
